@@ -1,4 +1,4 @@
-# FullStackProject
+# Full Stack Project
 
 ###  Tech Stack: <br/>
 React + Spring Boot+ REST API + AWS+ MySQL
